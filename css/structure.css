@@ -14,10 +14,10 @@
 /*
 |--------------------------------------------------------------------------
 |  1.0 Grid
-|  
+|
 |--------------------------------------------------------------------------
 |
-| 
+|
 |
 */
 /* #Base 1200 Grid
@@ -318,10 +318,10 @@ body:not(.template-slider) #Content {
 /*
 |--------------------------------------------------------------------------
 |  2.0 Layout
-|  
+|
 |--------------------------------------------------------------------------
 |
-| 
+|
 |
 */
 /* #Global
@@ -718,7 +718,7 @@ body.nice-scroll:not(.layout-boxed) {
     display: none;
 }
 
-/* 
+/*
 	#Sliding-top .widgets_wrapper .widget ul { margin: 0 0 15px 30px; line-height: 21px; }
 	#Sliding-top .widgets_wrapper .widget ul li { list-style:disc outside; padding: 3px 0; }
 	*/
@@ -1079,7 +1079,7 @@ body.nice-scroll:not(.layout-boxed) {
 
 /* #Owl-pagination
 ================================================== */
-/* #NEXT / PREV NAVI 
+/* #NEXT / PREV NAVI
 ================================================== */
 /* Section: Highlight
 ================================================== */
@@ -1334,9 +1334,9 @@ body.minimalist-header.header-below:not(.template-slider) #Header {
 
 #Top_bar #logo {
     display: block;
-    height: 60px;
-    line-height: 60px;
-    padding: 15px 0;
+    height: 35px;
+    line-height: 35px;
+    margin-top: -10px;
 }
 
 /* overflow: hidden; */
@@ -1345,8 +1345,9 @@ body.minimalist-header.header-below:not(.template-slider) #Header {
 }
 
 #Top_bar #logo img {
-    vertical-align: middle;
+    /* vertical-align: middle; */
     max-height: 100%;
+    top: -10px;
 }
 
 #Top_bar #logo img.logo-sticky {
@@ -4101,7 +4102,7 @@ body:not(.with_aside) .portfolio_group.list .portfolio-item .portfolio-item-fw-w
 }
 
 #Footer .footer_action .one a:hover {
-	text-decoration:none;	
+	text-decoration:none;
 }
 
 #Footer .widgets_wrapper {
@@ -5069,10 +5070,10 @@ body.layout-boxed .vc_row-no-padding .wpb_column {
 /*
 |--------------------------------------------------------------------------
 |  3.0 Responsive-1240
-|  
+|
 |--------------------------------------------------------------------------
 |
-| 
+|
 |
 */
 html,body {
@@ -6168,10 +6169,10 @@ html,body {
 /*
 |--------------------------------------------------------------------------
 |  4.0 Responsive
-|  
+|
 |--------------------------------------------------------------------------
 |
-| 
+|
 |
 */
 body {
